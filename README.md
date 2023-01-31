@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
 
-- :telescope: I’m working as a Lead Frontend Engineer trying to build new cool things.
+- :telescope: I’m working as a Full Stack Engineer trying to build new cool things.
 
 - :seedling: Exploring Web3 and smart contracts space of wonders in blockchain.
 
