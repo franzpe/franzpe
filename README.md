@@ -4,11 +4,11 @@
     <a href="https://linkedin.com/in/frantisek-pobocek-06819913b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://t.me/Franzpeee">
+      <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
     <a href="https://www.twitch.tv/franzpe">
       <img src="https://img.shields.io/badge/Twitch-violet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-    </a>
-    <a href="https://www.instagram.com/franzpeee/">
-      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=franzpe&style=flat-square&color=blue" alt=""/>
