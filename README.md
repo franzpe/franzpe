@@ -21,9 +21,9 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focused on React, web3 and all sorts of other goodies.
 
-- :telescope: I’m working as a Full Stack Engineer trying to build new cool things.
+- :telescope: I’m working as a Full Stack Engineer building new cool things.
 
 - :seedling: Exploring Web3 and smart contracts space of wonders in blockchain.
 
