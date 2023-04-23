@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.licdn.com/dms/image/D4D16AQEVr5g6DjZ7Yg/profile-displaybackgroundimage-shrink_350_1400/0/1681329997537?e=1687996800&v=beta&t=zz4HD75FACHhW60tM9vogqiScBHQjX2TAtapL87eAx8"/>
+  <br ><br>
   <div id="badges">
     <a href="https://linkedin.com/in/frantisek-pobocek-06819913b">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
