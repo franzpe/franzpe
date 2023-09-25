@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQEVr5g6DjZ7Yg/profile-displaybackgroundimage-shrink_350_1400/0/1681329997537?e=1687996800&v=beta&t=zz4HD75FACHhW60tM9vogqiScBHQjX2TAtapL87eAx8"/>
+  <img src="https://pobocek.dev/logo-main-cropped.png"/>
   <br ><br>
   <div id="badges">
     <a href="https://linkedin.com/in/frantisek-pobocek-06819913b">
